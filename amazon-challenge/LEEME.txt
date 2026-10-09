@@ -1,0 +1,28 @@
+AMAZON CHALLENGE — VERSIÓN ESTÁTICA CON ROBO
+
+CÓMO ABRIR
+1. Descomprime el ZIP.
+2. Abre index.html con Chrome, Edge o Firefox.
+3. No necesitas instalar Node.js, servidor ni conexión a Internet.
+
+MECÁNICA ACTUAL
+- Participan Grupos 1 a 6.
+- Grupo 7 administra el juego.
+- El grupo de turno tiene 15 segundos y UNA oportunidad para responder.
+- Si responde correctamente, recibe el valor completo.
+- Si responde incorrectamente o se acaba el tiempo, aparece automáticamente OPORTUNIDAD DE ROBO.
+- El grupo que falló NO puede robar esa misma pregunta.
+- Ustedes observan qué grupo levanta primero su tarjeta física de ROBO y hacen clic en ese grupo.
+- El grupo seleccionado tiene 8 segundos y UNA oportunidad.
+- Si acierta, obtiene 50% del valor de la pregunta.
+- Si falla o se acaba el tiempo, obtiene 0 puntos y se muestra la respuesta correcta.
+- Solo un grupo puede intentar el robo por pregunta.
+- Cada grupo dispone de 2 oportunidades de robo durante toda la partida.
+- Una oportunidad se consume desde el momento en que el grupo es seleccionado para robar, acierte o falle.
+
+IMPORTANTE
+Las preguntas y categorías actuales son PROVISIONALES. Cuando esté lista la exposición, se pueden sustituir en script.js sin cambiar la mecánica del juego.
+
+ACTUALIZADO: 20 preguntas de la exposición; 15 segundos normales y 8 segundos para robo.
+
+ICONOS: SVG de estilo Bootstrap Icons integrados, no requieren Internet.
